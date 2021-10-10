@@ -1,0 +1,314 @@
+
+html
+{
+    scroll-behavior: smooth;
+}
+/*---------------------------ZONA 1--------------------------*/
+#Zona-1
+{
+    width: 1360px;
+    height: 629px;
+    background-image: url("Imagenes/zona1.png");
+}
+img.Sup-logo
+{
+    height: 50px;
+    margin: 5px;
+    margin-left: 30px;
+    margin-right: -10px;
+}
+#BOX-Barra-Sup
+{
+margin-left: 780px;
+margin-top: -45px;
+}
+img.TEXTO-SUP
+{
+    height: 20px;
+    margin-left: 20px;
+}
+#Bienvenida
+{
+    height: 200px;
+    margin-left: 80px;
+    margin-top: 100px;
+    margin-bottom: -250px;
+}
+#logo
+{
+    height: 500px;
+    margin-left: 730px;
+}
+#flecha
+{
+    height: 100px;
+    margin-top: -100px;
+    margin-left: 600px;
+}
+/*---------------------------ZONA 2--------------------------*/
+#Zona-2
+{
+
+    width: 1360px;
+     height: 629px;
+    background-image: url("Imagenes/zona2.png");
+}
+#TITULO-1
+{
+    margin-left: 560px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    scroll-margin: 50px;
+}
+#DIBUJO-1
+{
+    height: 350px;
+    margin-left: 100px;
+    margin-bottom: -380px;
+}
+#TEXTO-1
+{
+    margin-left: 500px;
+}
+/*---------------------------ZONA 3--------------------------*/
+#Zona-3
+{
+    width: 1360px;
+    height: 629px;
+    background-image: url("Imagenes/zona3.png");
+}
+#video
+{
+    height: 630px;
+    margin-left: 115px;
+    border-radius: 5cm;
+    filter: brightness(50%);
+    margin-bottom: -600px;
+
+    position: absolute;
+    z-index: 0;
+}
+#TITULO-2
+{
+    scroll-margin: 40px;
+    height: 60px;
+    position: absolute;
+    z-index: 0;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+
+#recuadro1
+{
+    position: absolute;
+    z-index: 0;
+    margin-left: 200px;
+    margin-top: 120px;
+}
+#recuadro2
+{
+    position: absolute;
+    z-index: 0;
+    margin-left: 800px;
+    margin-top: 120px;
+}
+#foto1
+{
+    height: 300px;
+    margin-bottom: -20px;
+}
+#marco1
+{
+    margin-left: -20px;
+    height: 150px;
+    filter: blur(4px);
+    filter: opacity(30%);
+}
+#nombre-1
+{
+    height: 110px;
+    margin-left:-310px;
+}
+#nombre-2
+{
+    height: 110px;
+    width: 300px;
+    margin-left:-325px;
+}
+#logo-contacto
+{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 40px;
+}
+/*---------------------------ZONA 4--------------------------*/
+#Zona-4
+{
+    width: 1360px;
+    height: 629px;
+    background-image: url("Imagenes/zona4.png");
+}
+#TITULO-3
+{   
+    scroll-margin: 50px;
+    margin-left: 510px;
+    margin-top: 50px;
+}
+#box-1
+{
+    margin-left: 100px;
+}
+#box-2
+{
+    margin-top: -466px;
+    margin-left: 880px;
+}
+#subtitulo
+{
+    height: 40px;
+}
+#logo-windows
+{
+    height: 50px;
+}
+#foto-muestra
+{
+    margin-top: 10px;
+    height: 200px;
+    margin-left: 3px;
+    border-radius: 20px;
+}
+#youtube
+{
+    border-radius: 20px;
+}
+#logo-itchio
+{
+    margin-top: -30px;
+    height: 50px;
+}
+#logo-itchio2
+{
+    margin-top: -30px;
+    height: 50px;
+    margin-left: -420px;
+}
+/*---------------------------ZONA 5--------------------------*/
+#Zona-5
+{
+    width: 1360px;
+    height: 629px;
+    background-image: url("Imagenes/zona5.png"); 
+}
+#box-3
+{
+    margin-left: 100px;
+    padding-top: 30px;
+}
+#box-4
+{
+    margin-left: 880px;
+    margin-top: -555px;
+}
+#foto-muestra2
+{
+    height: 300px;
+    margin-left: 5px;
+    border-radius: 20px;
+}
+#logo-itchio3
+{
+    margin-top: 250px;
+    height: 50px;
+    margin-left: 10px;
+}
+#logo-itchio4
+{
+    margin-top: 250px;
+    height: 50px;
+    margin-left: -490px;
+}
+/*---------------------------ZONA 6--------------------------*/
+#Zona-6
+{
+    width: 1360px;
+    height: 629px;
+    background-image: url("Imagenes/zona6.png"); 
+}
+#TITULO-4
+{
+    margin-top: 40px;
+    margin-left: 430px;
+}
+#box-pag1
+{
+margin-top: 130px;
+margin-left: 130px;
+}
+#box-pag2
+{
+margin-top: -255px;
+margin-left: 780px;
+}
+#foto-9
+{
+    height: 200px;
+    border-radius: 20px;
+}
+#logo-web
+{
+    height: 50px;
+    margin-left: 190px;
+    margin-top: 5px;
+}
+/*---------------------------ZONA 7--------------------------*/
+#Zona-7
+{
+    width: 1360px;
+    height: 300px;
+    background-image: url("Imagenes/zona7.png");
+}
+#TITULO-7
+{
+    margin-top: -50px;
+    margin-left: 450px;
+}
+#logo-inf
+{
+    height: 80px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+#link
+{
+    margin-top: 50px;
+    height: 40px;
+    margin-left: 20px;
+}
+#formulario
+{
+    margin-top: -200px;
+    margin-left: 1000px;
+    margin-bottom: -290px;
+}
+#ff
+{
+    margin-left: 920px;
+    height: 80px;
+    margin-bottom: -200px;
+}
+/*---------------------------SLIDER--------------------------*/
+#Contenedor_Slider
+{
+    height: 2920px; 
+    margin-top: -3400px;
+    margin-left: 1270px;
+}
+#Slider
+{
+    height: 50px;
+    margin-left: 20px;
+    position: sticky;
+    top:550px;
+    display:inline-block;
+}
